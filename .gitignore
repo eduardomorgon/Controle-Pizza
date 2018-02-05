@@ -1,0 +1,7 @@
+/target/
+/db/
+/nbproject/
+/.settings/
+/.project
+/.classpath
+/.vscode
